@@ -16,4 +16,20 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
