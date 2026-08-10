@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
