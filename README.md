@@ -17,6 +17,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0205-isomorphic-strings) |
+| [0680-valid-palindrome-ii](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +39,9 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0680-valid-palindrome-ii](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
