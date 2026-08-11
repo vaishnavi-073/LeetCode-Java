@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
