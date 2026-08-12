@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
