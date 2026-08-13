@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
@@ -27,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -39,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -57,4 +60,8 @@
 | [0197-rising-temperature](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0584-find-customer-referee) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-073/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
